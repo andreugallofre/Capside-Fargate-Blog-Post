@@ -5,7 +5,7 @@
    "Resources":{
       "Cluster":{
          "Properties":{
-            "ClusterName":"KpisEcsCluster"
+            "ClusterName":"BlogPostEcsCluster"
          },
          "Type":"AWS::ECS::Cluster"
       },
